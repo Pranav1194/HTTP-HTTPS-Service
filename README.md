@@ -3,7 +3,7 @@ This project implements a simple HTTPS service that interacts with AWS S3 to lis
 ## Setup Instructions
 - AWS account
 -  Python
--  VS Code (optional)
+-  VS Code/Terminal (optional)
 ## Steps for Setup
 - clone the repository
 - cd http-service-python-app
